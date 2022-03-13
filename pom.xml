@@ -8,7 +8,7 @@
     <artifactId>archetype</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>archetype</name>
-    <description>Archetype project for maven archetype project.</description>
+    <description>Archetype project for maven project.</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
